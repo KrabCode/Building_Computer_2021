@@ -14,10 +14,7 @@ Procesor 12 jádrový, 24 vláken, 3,8GHz (TDP 105W), Boost 4,6 GHz, 64MB L3 cac
 --------
 
 GPU	
-18'500
-https://www.alza.cz/gaming/gainward-geforce-rtx-3060-ghost-12g-d6334304.htm
-Grafická karta 12GB GDDR6 (15000MHz), NVIDIA GeForce Ampere (GA106, 1320 MHz), Boost 1777 MHz, PCI Express x16 4.0 , 192Bit, HDMI 2.1 a DisplayPort 1.4a
-170W
+imagine 170W - 200W
 
 --------
 
@@ -51,3 +48,6 @@ libovolná skříň
 
 blikátka, zrcátka, větrátka
 --------
+
+------------------------
+22'500
