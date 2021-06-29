@@ -1,0 +1,53 @@
+Modern Gamer & Programmer PC
+Budget 40k CZK (pokud vydrží 5 let tak to vyjde na 22 kč / den)
+1440p @ 144fps
+
+inspiration: https://pcpartpicker.com/guide/2sQzK8/great-amd-gamingstreaming-build
+
+--------
+
+CPU	
+12'000
+https://www.alza.cz/amd-ryzen-9-3900x-d5634217.htm
+Procesor 12 jádrový, 24 vláken, 3,8GHz (TDP 105W), Boost 4,6 GHz, 64MB L3 cache, socket AMD AM4, Matisse, box chladič, Wraith Prism RGB
+
+--------
+
+GPU	
+18'500
+https://www.alza.cz/gaming/gainward-geforce-rtx-3060-ghost-12g-d6334304.htm
+Grafická karta 12GB GDDR6 (15000MHz), NVIDIA GeForce Ampere (GA106, 1320 MHz), Boost 1777 MHz, PCI Express x16 4.0 , 192Bit, HDMI 2.1 a DisplayPort 1.4a
+170W
+
+--------
+
+MOBO
+3.500
+https://www.alza.cz/asus-tuf-gaming-b550-plus-d5868853.htm#recenze
+
+Základní deska AMD B550, socket AMD AM4, PCI Express 4.0, 2× PCIe x16, 3× PCIe x1, 4× DDR4 4600MHz (OC), 6× SATA III, 2ks M.2, USB 3.2 Gen 2, USB-C, RJ-45 (LAN) 2,5Gbps, HDMI, DisplayPort, 8ch zvuková karta, formát ATX
+
+--------
+
+RAM 
+3'000
+https://www.alza.cz/hyperx-16gb-kit-ddr4-3600mhz-cl17-fury-black-series-d5774295.htm
+
+16GB, 3600MHz
+// MOBO zvládne až 4600MHz, tohle je 3600MHz budget řešení, lze pak snadno vyměnit až padnou ceny rychlejších pamětí
+
+--------
+
+SSD 
+3'000
+https://www.alza.cz/wd-blue-sn550-nvme-ssd-1tb-d5731168.htm
+
+SSD disk M.2 (PCIe 3.0 4x NVMe), 3D NAND, rychlost čtení 2400MB/s, rychlost zápisu 1950MB/s, životnost 600TBW
+
+--------
+
+libovolná skříň
+1'000
+
+blikátka, zrcátka, větrátka
+--------
