@@ -1,5 +1,4 @@
 Modern Gamer & Programmer PC
-Budget 40k CZK (pokud vydrží 5 let tak to vyjde na 22 kč / den)
 1440p @ 144fps
 
 inspiration: https://pcpartpicker.com/guide/2sQzK8/great-amd-gamingstreaming-build
@@ -7,13 +6,14 @@ inspiration: https://pcpartpicker.com/guide/2sQzK8/great-amd-gamingstreaming-bui
 --------
 
 CPU	
-12'000
-https://www.alza.cz/amd-ryzen-9-3900x-d5634217.htm
-Procesor 12 jádrový, 24 vláken, 3,8GHz (TDP 105W), Boost 4,6 GHz, 64MB L3 cache, socket AMD AM4, Matisse, box chladič, Wraith Prism RGB
+14'000
+https://www.alza.cz/amd-ryzen-9-5900x-d6215746.htm
+Procesor 12 jádrový, 24 vláken, 3,7GHz (TDP 105W), Boost 4,8 GHz, 64MB L3 cache, Bez integrovaného grafického čipu, socket AMD AM4, Vermeer, bez chladiče
 
 --------
 
 GPU	
+wait until prices drop, expect 15k
 imagine 170W - 200W
 
 --------
@@ -50,4 +50,4 @@ blikátka, zrcátka, větrátka
 --------
 
 ------------------------
-22'500
+25'000
