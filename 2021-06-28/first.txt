@@ -7,8 +7,8 @@ inspiration: https://pcpartpicker.com/guide/2sQzK8/great-amd-gamingstreaming-bui
 
 CPU	
 14'000
-https://www.alza.cz/amd-ryzen-9-5900x-d6215746.htm
-Procesor 12 jádrový, 24 vláken, 3,7GHz (TDP 105W), Boost 4,8 GHz, 64MB L3 cache, Bez integrovaného grafického čipu, socket AMD AM4, Vermeer, bez chladiče
+https://www.alza.cz/amd-ryzen-7-5800x-d6205103.htm
+Procesor 8 jádrový, 16 vláken, 3,8GHz (TDP 105W), Boost 4,7 GHz, 32MB L3 cache, Bez integrovaného grafického čipu, socket AMD AM4, Vermeer, bez chladiče
 
 --------
 
