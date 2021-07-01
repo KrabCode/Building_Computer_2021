@@ -1,25 +1,27 @@
 Modern Gamer & Programmer PC
-1440p @ 144fps
 
-inspiration: https://pcpartpicker.com/guide/2sQzK8/great-amd-gamingstreaming-build
+https://pcpartpicker.com/list/TXPLQD
 
 --------
 
 CPU	
-14'000
+11390
 https://www.alza.cz/amd-ryzen-7-5800x-d6205103.htm
 Procesor 8 jádrový, 16 vláken, 3,8GHz (TDP 105W), Boost 4,7 GHz, 32MB L3 cache, Bez integrovaného grafického čipu, socket AMD AM4, Vermeer, bez chladiče
 
 --------
 
-GPU	
-wait until prices drop, expect 15k
-imagine 170W - 200W
+COOLER
+1000
+https://www.alza.cz/cooler-master-hyper-212-black-edition-d5808649.htm
+
++ thermal paste
+https://www.alza.cz/arctic-mx-4-2019-thermal-compound-4g-d5524590.htm
 
 --------
 
 MOBO
-3.500
+3500
 https://www.alza.cz/asus-tuf-gaming-b550-plus-d5868853.htm#recenze
 
 Základní deska AMD B550, socket AMD AM4, PCI Express 4.0, 2× PCIe x16, 3× PCIe x1, 4× DDR4 4600MHz (OC), 6× SATA III, 2ks M.2, USB 3.2 Gen 2, USB-C, RJ-45 (LAN) 2,5Gbps, HDMI, DisplayPort, 8ch zvuková karta, formát ATX
@@ -27,27 +29,31 @@ Základní deska AMD B550, socket AMD AM4, PCI Express 4.0, 2× PCIe x16, 3× PC
 --------
 
 RAM 
-3'000
-https://www.alza.cz/hyperx-16gb-kit-ddr4-3600mhz-cl17-fury-black-series-d5774295.htm
-
-16GB, 3600MHz
-// MOBO zvládne až 4600MHz, tohle je 3600MHz budget řešení, lze pak snadno vyměnit až padnou ceny rychlejších pamětí
+2599
+https://www.alza.cz/crucial-16gb-kit-ddr4-3600mhz-cl16-ballistix-black-d5820215.htm
+Operační paměť 2x8GB, PC4-28800, CL16-18-18-38, napětí 1.35 V, pasivní chladič, Unbuffered a XMP 2.0
 
 --------
 
 SSD 
-3'000
-https://www.alza.cz/wd-blue-sn550-nvme-ssd-1tb-d5731168.htm
+3700
+https://www.alza.cz/wd-black-sn750-nvme-ssd-1tb-d5534244.htm
 
-SSD disk M.2 (PCIe 3.0 4x NVMe), 3D NAND, rychlost čtení 2400MB/s, rychlost zápisu 1950MB/s, životnost 600TBW
+SSD disk M.2 (PCIe 3.0 4x NVMe), 3D NAND, rychlost čtení 3470MB/s, rychlost zápisu 3000MB/s, životnost 600TBW
 
 --------
 
-libovolná skříň
-1'000
+PSU
+2300
+s grafikou 3080 chce tahle sestava 529 W, zdroj musí umět 600W+
+https://www.alza.cz/corsair-rm650-d5649529.htm
 
-blikátka, zrcátka, větrátka
+-------- 
+
+CASE
+850
+https://www.alza.cz/evolveo-nate-1-cerna-d5692191.htm
+
 --------
 
-------------------------
-25'000
+25k czk
